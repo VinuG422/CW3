@@ -9,8 +9,8 @@ public class QuestionBank {
     {
         // populating question base with some test questions
         database.add(new NoChoiceQuestion(
-                "What is the capital city of Texas?",
-                "Austin"
+                "What is the capital city of Oklahoma",
+                "Oklahoma City"
         ));
 
         database.add(new TrueFalseQuestion(
